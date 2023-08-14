@@ -1,4 +1,4 @@
-![ギガンティック☆整地鯖 トップ画像](https://github.com/GiganticMinecraft/.github/assets/82575685/81ded9eb-77de-4cdd-813a-f768beb9ce43)
+[![ギガンティック☆整地鯖 トップ画像](/profile/image/top-image.jpg)](https://seichi.click)
 
 <div style="text-align: center;">
     <h2>We are "seichi.click network"</h2>
@@ -11,3 +11,4 @@
 - [公式サイト](https://seichi.click)
 - [公式Twitter](https://twitter.com/seichiclick)
 - [公式YouTube](https://youtube.com/channel/UCRa1dzpugnk83WH6VW5e-og)
+- [公式Discord](https://discord.com/servers/giganteitsukuzheng-di-qing-237758724121427969)
