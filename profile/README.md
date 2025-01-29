@@ -9,6 +9,5 @@
 オープンコミュニティ上で展開されており、誰でも参加できます。
 
 - [公式サイト](https://seichi.click)
-- [公式Twitter](https://twitter.com/seichiclick)
 - [公式YouTube](https://youtube.com/channel/UCRa1dzpugnk83WH6VW5e-og)
 - [公式Discord](https://discord.com/servers/giganteitsukuzheng-di-qing-237758724121427969)
